@@ -1,0 +1,61 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Untitled Document</title>
+	<link rel="stylesheet" href="https://use.typekit.net/thq0dzq.css">
+
+<link href="TO DO CSS.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+
+<section>
+<div>
+  <h1>To-Do List</h1>
+	<h2>April 14—20</h2>
+  </div>
+	</section>
+	<div class="cards">
+
+	<article class="information [ card ]">
+		<span class="tag">Monday</span>
+		<h2 class="title">Slow day</h2>
+		<p class="info">Elemenatary tracks all the events for the day as you scheduled and you will never have to worry.</p>
+		<button class="button">
+			<span>Learn more</span>
+			<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="none">
+				<path d="M0 0h24v24H0V0z" fill="none" />
+				<path d="M16.01 11H4v2h12.01v3L20 12l-3.99-4v3z" fill="currentColor" />
+			</svg>
+		</button>
+	</article>
+	
+		<article class="information [ card ]">
+		<span class="tag">Tuesday</span>
+		<h2 class="title">No plans today</h2>
+		<p class="info">Elemenatary tracks all the events for the day as you scheduled and you will never have to worry.</p>
+		<button class="button">
+			<span>Learn more</span>
+			<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="none">
+				<path d="M0 0h24v24H0V0z" fill="none" />
+				<path d="M16.01 11H4v2h12.01v3L20 12l-3.99-4v3z" fill="currentColor" />
+			</svg>
+		</button>
+	</article>
+		
+		<article class="information [ card ]">
+		<span class="tag">Wednesday</span>
+		<h2 class="title">Survivor day</h2>
+		<p class="info">Elemenatary tracks all the events for the day as you scheduled and you will never have to worry.</p>
+		<button class="button">
+			<span>Learn more</span>
+			<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="none">
+				<path d="M0 0h24v24H0V0z" fill="none" />
+				<path d="M16.01 11H4v2h12.01v3L20 12l-3.99-4v3z" fill="currentColor" />
+			</svg>
+		</button>
+	</article>
+</div>
+</body>
+</html>
