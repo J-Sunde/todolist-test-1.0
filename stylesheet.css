@@ -131,7 +131,7 @@ body {
 
 .card {
     border-radius: 16px;
-    box-shadow: 0 30px 30px -25px rgba(#4133B7, .25);
+    box-shadow: 0 30px 30px -25px rgba(#4133B7, .25); important!;
     max-width: 300px;
     background-color: #FFEDEC; important;
 }
