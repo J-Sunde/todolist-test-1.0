@@ -131,9 +131,9 @@ body {
 
 .card {
     border-radius: 16px;
-box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    box-shadow: 0 30px 30px -25px rgba(#4133B7, .25);
     max-width: 300px;
-    background-color: #E0DFDF; important;
+    background-color: #FFEDEC; important;
 }
 
 .information {
