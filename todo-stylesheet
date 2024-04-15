@@ -1,0 +1,328 @@
+@charset "UTF-8";
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * new-science:
+ *   - http://typekit.com/eulas/00000000000000007753f725
+ *   - http://typekit.com/eulas/00000000000000007753f721
+ * new-science-extended:
+ *   - http://typekit.com/eulas/00000000000000007753f727
+ *   - http://typekit.com/eulas/00000000000000007753f71d
+ *
+ * © 2009-2024 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2024-04-14 15:52:43 UTC"}*/
+
+@import url("https://p.typekit.net/p.css?s=1&k=thq0dzq&ht=tk&f=55777.55778.55782.55786&a=83695460&app=typekit&e=css");
+
+@font-face {
+font-family:"new-science";
+src:url("https://use.typekit.net/af/b3d652/00000000000000007753f725/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff2"),url("https://use.typekit.net/af/b3d652/00000000000000007753f725/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff"),url("https://use.typekit.net/af/b3d652/00000000000000007753f725/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"new-science";
+src:url("https://use.typekit.net/af/94fcc4/00000000000000007753f721/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/94fcc4/00000000000000007753f721/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/94fcc4/00000000000000007753f721/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"new-science-extended";
+src:url("https://use.typekit.net/af/261ae5/00000000000000007753f727/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/261ae5/00000000000000007753f727/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/261ae5/00000000000000007753f727/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"new-science-extended";
+src:url("https://use.typekit.net/af/b54d16/00000000000000007753f71d/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff2"),url("https://use.typekit.net/af/b54d16/00000000000000007753f71d/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff"),url("https://use.typekit.net/af/b54d16/00000000000000007753f71d/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+.tk-new-science { font-family: "new-science",sans-serif; }
+.tk-new-science-extended { font-family: "new-science-extended",sans-serif; }
+
+section div h1 {
+    font-family: new-science;
+    font-size: 21px;
+    margin-left: 69px;
+    background-color: #000000;
+    color: #9C9C9C;
+    margin-top: 72px;
+    padding-top: 6px;
+    padding-right: 6px;
+    padding-bottom: 6px;
+    padding-left: 6px;
+    border-radius: 7px;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    -webkit-box-shadow: 0px 0;
+    box-shadow: 0px 0;
+    border-width: 3px;
+    margin-right: 647px;
+    text-indent: 10px;
+}
+section div h2 {
+    font-family: new-science;
+    margin-left: 69px;
+    font-style: normal;
+    font-weight: normal;
+    color: #1C1C1C;
+    border-bottom-color: #000000;
+    border-bottom-width: 11px;
+    font-size: 20px;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Spline+Sans:wght@300;400;500;600;700&display=swap");
+
+*,
+*:after,
+*:before {
+	box-sizing: border-box;
+}
+
+:root {
+	// Basic
+	--c-white: #fff;
+	--c-black: #000;
+
+	// Greys
+	--c-ash: #eaeef6;
+	--c-charcoal: #a0a0a0;
+	--c-void: #141b22;
+
+	// Beige/Browns
+	--c-fair-pink: #FFEDEC;
+	--c-apricot: #FBC8BE;
+	--c-coffee: #754D42;
+	--c-del-rio: #917072;
+
+	// Greens
+	--c-java: #1FCAC5;
+
+	// Purples
+	--c-titan-white: #f1eeff;
+	--c-cold-purple: #a69fd6;
+	--c-indigo: #6558d3;
+	--c-governor: #4133B7;
+}
+
+body {
+	font-family: "Spline Sans", sans-serif;
+	line-height: 1.5;
+	min-height: 100vh;
+	background-color: var(--c-ash);
+}
+
+.cards {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: flex-start;
+	flex-wrap: wrap;
+	justify-content: center;
+	gap: 2.5rem;
+	width: 90%;
+	max-width: 1000px;
+	margin: 10vh auto;
+}
+
+.card {
+    border-radius: 16px;
+    box-shadow: 0 30px 30px -25px rgba(#4133B7, .25);
+    max-width: 300px;
+    background-color: #E0DFDF; important;
+}
+
+.information {
+	background-color:#EAE9E9;
+	padding: 1.5rem;
+
+	.tag {
+		display: inline-block;
+		background-color: var(--c-titan-white);
+		color: var(--c-indigo);
+		font-weight: 600;
+		font-size: 0.875rem;
+		padding: 0.5em 0.75em;
+		line-height: 1;
+		border-radius: 6px;
+		& + * {
+			margin-top: 1rem;
+		}
+	}
+
+	.title {
+		font-size: 1.5rem;
+		color: var(--c-void);
+		line-height: 1.25;
+		& + * {
+			margin-top: 1rem;
+		}
+	}
+
+	.info {
+		color: var(--c-charcoal);
+		& + * {
+			margin-top: 1.25rem;
+		}
+	}
+
+	.button {
+    font: inherit;
+    line-height: 1;
+    background-color: var(--c-white);
+    border: 2px solid var(--c-indigo);
+    color: var(--c-indigo);
+    padding-top: 0.5em;
+    padding-right: 1em;
+    padding-left: 1em;
+    padding-bottom: 0.5em;
+    border-radius: 6px;
+    font-weight: 500;
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.5rem;
+		&:hover,
+		&:focus {
+			background-color: var(--c-indigo);
+			color: var(--c-white);
+		}
+	}
+	
+	.details {
+		display: flex;
+		gap: 1rem;
+		div {
+			padding: .75em 1em;
+			background-color: var(--c-titan-white);
+			border-radius: 8px;
+			display: flex;
+			flex-direction: column-reverse;
+			gap: .125em;
+			flex-basis: 50%;
+		}
+		
+		dt {
+			font-size: .875rem;
+			color: var(--c-cold-purple);
+		}
+		
+		dd {
+			color: var(--c-indigo);
+			font-weight: 600;
+			font-size: 1.25rem;
+		}
+	}
+}
+
+
+.plan {
+	padding: 10px;
+	background-color: var(--c-white);
+	color: var(--c-del-rio);
+	
+	strong {
+		font-weight: 600;
+		color: var(--c-coffee);
+	}
+	
+	.inner {
+		padding: 20px;
+		padding-top: 40px;
+		background-color: var(--c-fair-pink);
+		border-radius: 12px;
+	position: relative;
+		overflow: hidden;
+	}
+	
+	.pricing {
+		position: absolute;
+		top: 0;
+		right: 0;
+		background-color: var(--c-apricot);
+		border-radius: 99em 0 0 99em;
+		display: flex;
+		align-items: center;
+		padding: .625em .75em;
+		font-size: 1.25rem;
+		font-weight: 600;
+		color: var(--c-coffee);
+		small {
+			color: var(--c-del-rio);
+			font-size: .75em;
+			margin-left: .25em;
+		}
+		
+	}
+	
+	.title {
+    font-weight: 600;
+    font-size: 1.25rem;
+    color: var(--c-coffee);
+		& + * {
+			margin-top: .75rem;
+    font-family: "Acumin Pro Bold";
+    font-family: "Acumin Pro Bold";
+		}
+	}
+	
+	.info {
+		& + * {
+			margin-top: 1rem;
+		}
+	}
+	
+	.features {
+		display: flex;
+		flex-direction: column;
+		li {
+			display: flex;
+			align-items: center;
+			gap: .5rem;
+			& + * {
+				margin-top: .75rem;
+			}
+		}
+		
+		.icon {
+			background-color: var(--c-java);
+			display: inline-flex;
+			align-items: center;
+			justify-content: center;
+			color: var(--c-white);
+			border-radius: 50%;
+			width: 20px;
+			height: 20px;
+			svg {
+				width: 14px;
+				height: 14px;
+			}
+		}
+		
+		& + * {
+			margin-top: 1.25rem;
+		}
+	}
+	
+	button {
+		font: inherit;
+		background-color: var(--c-indigo);
+		border-radius: 6px;
+		color: var(--c-white);
+		font-weight: 500;
+		font-size: 1.125rem;
+		width: 100%;
+		border: 0;
+		padding: 1em;
+		&:hover,
+		&:focus {
+			background-color: var(--c-governor);
+		}
+	}
+	
+	
+}
