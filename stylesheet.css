@@ -173,7 +173,7 @@ body {
 	.button {
     font: inherit;
     line-height: 1;
-    background-color: #6558d3;
+    background-color: #141b22;
     border: 2px solid var(--c-indigo);
     color: var(--c-indigo);
     padding-top: 0.5em;
